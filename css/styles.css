@@ -3,7 +3,11 @@
 }
 body {
   margin: 0;  
+}
+@font-face {
   font-family: 'Carme', sans-serif;
+  font-display: auto;
+  src: url(https://fonts.googleapis.com/css?family=Carme) format('woff2');
 }
 .contenedor {
   background-color: #e1e1e3; 
